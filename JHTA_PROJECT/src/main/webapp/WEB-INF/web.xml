@@ -19,4 +19,14 @@
     <servlet-name>Index</servlet-name>
     <url-pattern>/index/index</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ProductList</display-name>
+    <servlet-name>ProductList</servlet-name>
+    <servlet-class>com.kkj.product.controller.ProductList</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ProductList</servlet-name>
+    <url-pattern>/product/list</url-pattern>
+  </servlet-mapping>
 </web-app>

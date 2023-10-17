@@ -1,3 +1,4 @@
+package com.kkj.test;
 import java.util.List;
 
 import com.kkj.test.TestDao;
