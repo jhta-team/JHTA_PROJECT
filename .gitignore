@@ -122,8 +122,9 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java,windows
 
 # css, js, etc
-/icons
-/js
-/css
-*.js
-*.css
+
+# /icons
+# /js
+# /css
+# *.js
+# *.css
