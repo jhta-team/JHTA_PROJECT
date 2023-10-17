@@ -17,16 +17,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>Index</servlet-name>
-    <url-pattern>/Index</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>TestSv</display-name>
-    <servlet-name>TestSv</servlet-name>
-    <servlet-class>com.kkj.test.TestSv</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>TestSv</servlet-name>
-    <url-pattern>/TestSv</url-pattern>
+    <url-pattern>/index/index</url-pattern>
   </servlet-mapping>
 </web-app>
